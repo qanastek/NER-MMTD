@@ -1,5 +1,5 @@
 # NER-MMTD
-Named-entity recognition corpora for french / english voice recognition in the music industry based on the Million Musical Tweets dataset
+Named-entity recognition corpora for multilingual recognition in the music industry based on the Million Musical Tweets dataset
 
 ## Steps
 
