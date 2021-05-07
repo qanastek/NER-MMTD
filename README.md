@@ -25,3 +25,17 @@ Using Flair and CRF on 100 epochs (1.5 hours on a E5-2690 v1):
 
 - http://www.cp.jku.at/datasets/MMTD/
 - http://www.diva-portal.se/smash/get/diva2:1010104/FULLTEXT01.pdf
+
+## Citation
+
+If you want to use this corpora in your research, please cite the following ressources:
+
+```BibTeX
+@inproceedings{inproceedings,
+  author = {Hauger, David and Kosir, Andrej and Tkalčič, Marko and Schedl, Markus},
+  year = {2013},
+  month = {11},
+  pages = {},
+  title = {THE MILLION MUSICAL TWEETS DATASET: WHAT CAN WE LEARN FROM MICROBLOGS}
+}
+```
