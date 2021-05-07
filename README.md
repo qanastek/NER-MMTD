@@ -38,4 +38,14 @@ If you want to use this corpora in your research, please cite the following ress
   pages = {},
   title = {THE MILLION MUSICAL TWEETS DATASET: WHAT CAN WE LEARN FROM MICROBLOGS}
 }
+
+@misc{labrak_yanis_ner_mmtd,
+  author       = {Labrak Yanis},
+  title        = {Named-entity recognition corpora for multilingual voice recognition in the music industry},
+  month        = may,
+  year         = 2021,
+  version      = {1.0},
+  publisher    = {GitHub},
+  url          = {https://github.com/qanastek/NER-MMTD}
+}
 ```
