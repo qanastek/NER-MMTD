@@ -10,7 +10,7 @@ Named-entity recognition corpora for multilingual recognition in the music indus
 
 ## State-of-the-art
 
-Using Flair and CRF on 100 epochs (1.5 hours on a E5-2690 v1):
+Using [Flair](https://github.com/flairNLP/flair) and CRF on 100 epochs (1.5 hours on a E5-2690 v1):
 
 |                  | precision | recall | f1-core |
 |------------------|-----------|--------|---------|
